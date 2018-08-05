@@ -10,9 +10,15 @@ tag:
 - Maths
 comments: true
 ---
+#
+First Post!
+Exciting!
+
 
 $$
 
 \int\frac{1}{4x^2-1}dx
 
 $$
+
+Bye!
