@@ -18,4 +18,4 @@
 
 둘 중 한가지만 실천해도 당신은 이미 대한민국 상위 1%다.
 
-![특별한 인생을 선택하라]("Elon_Musk_Choice.jpg") 
+![특별한 인생을 선택하라](https://github.com/m3r1c123/m3r1c123.github.io/blob/master/_posts/Elon_Musk_Choice.jpg) 
